@@ -1,5 +1,7 @@
 ## RWF2000 - A Large Scale Video Database for Violence Detection
 
+For a plain-Python reproduction workflow that replaces the original notebooks, see [REPRODUCE.md](REPRODUCE.md).
+
 
 
 ### Reminder
@@ -107,7 +109,6 @@ Since all the videos are captured by surveillance cameras in public places, many
 ### Download
 
 For privacy issues with the dataset, video files are currently not available on this website.
-
 
 
 
